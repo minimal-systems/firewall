@@ -1,0 +1,4 @@
+[package_info]
+package_name= firewall-rules
+package_version = 1.0
+package_info = Contains the latest firewall rules for the package manager and will be written to the hosts file
